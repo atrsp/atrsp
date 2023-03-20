@@ -1,5 +1,5 @@
 ### Hey there 👋
-#### Here are my stats, projects and email, if you'd like to reach me! 
+#### Here are my stats, projects, [Linkedin](https://www.linkedin.com/in/atrsp/) and email, if you'd like to reach me! 
 > #### ***Thank you for the visit :)***
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=atrsp&show_icons=false&theme=dracula&include_all_commits=true&count_private=false"/>
