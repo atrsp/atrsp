@@ -4,8 +4,8 @@
 #### Here are my stats, projects, Linkedin and email, if you'd like to reach me! 
 > #### ***Thank you for the visit :)***
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=atrsp&show_icons=false&theme=dracula&include_all_commits=true&count_private=false"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atrsp&layout=compact&langs_count=5&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=atrsp&show_icons=false&theme=dracula&include_all_commits=false&count_private=false"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atrsp&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
